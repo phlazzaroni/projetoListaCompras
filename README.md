@@ -17,4 +17,4 @@ A lista de compras permite que os usuários adicionem itens, visualizem a lista 
 
 - **PHP**: Linguagem principal utilizada para desenvolver o backend do projeto.
 - **HTML/CSS**: Para criar a interface do usuário.
-- **Arquivos `.txt`**: Utilizados para armazenar os dados dos itens da lista de compras.
+- **Arquivo `.txt`**: Utilizado para armazenar os dados dos itens da lista de compras.
